@@ -11,10 +11,10 @@ Kanban Board application with own style.
 Project is created with:
 * HTML5
 * Sass
-* Java Script
+* JavaScript
 
 ## Tools
-The following tools were used
+The following tools were used:
 * NPM
 * Git
 
